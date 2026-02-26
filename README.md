@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning cloud security architecture (AWS) and networking
+I'm currently learning cloud security architecture (AWS), networking and homelabs
 
 
 # 💻 Tech Stack:
