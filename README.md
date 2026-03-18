@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm currently learning cloud security architecture (AWS), networking and planning to build a homelab soon.
 
 
