@@ -1,5 +1,5 @@
 # About Me:
-I'm currently learning cloud security architecture (AWS), networking and planning to build a homelab soon.
+Aiming to build a career in cloud security, currently learning AWS, networking and cybersecuity. I have a planned homelab which should be coming soon. I'm interested in all things tech, video editing, space and rockets.
 
 
 # 💻 Tech Stack:
